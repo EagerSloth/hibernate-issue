@@ -1,4 +1,4 @@
-# Test case for showcasing issues with "merge" behaviour
+# Test case for HHH-17774 showcasing issues with "merge" behaviour
 
 Updating our application from Spring boot 3.2.2 to 3.2.3 we encountered issued with persisting some entities.
 
